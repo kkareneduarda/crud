@@ -16,6 +16,7 @@ Este projeto é um CRUD simples em PHP, sem uso de banco de dados, que manipula 
 
 ## Estrutura do Projeto
 
+```
 crud/
 │
 ├── index.php     # Menu principal
@@ -24,7 +25,7 @@ crud/
 ├── listar.php    # Listar usuários
 ├── atualizar.php # Atualizar usuário
 └── deletar.php   # Deletar usuário
-
+```
 
 
 ##  Executando o projeto
